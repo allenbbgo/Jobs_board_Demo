@@ -39,6 +39,8 @@ gem 'activerecord-reset-pk-sequence'
 gem 'hirb'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'jquery-rails'  
+gem 'simple_form'
+gem 'haml', '~> 5.0', '>= 5.0.1'
 
 
 group :development, :test do
